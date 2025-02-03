@@ -1,6 +1,6 @@
 import cardPaymentSystem from '../cardvalidation/cardtype';
 import cardNumber from '../cardvalidation/cardnumber';
-import './form.css';
+import '../form.css';
 
 export default class FormWidget {//собираем основной скелет
     constructor(container) {
